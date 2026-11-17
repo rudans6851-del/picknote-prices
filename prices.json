@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T12:15:34+09:00",
+ "updatedAt": "2026-11-17T12:23:04+09:00",
  "targetCheckIn": "2026-11-24",
  "targetCheckOut": "2026-11-25",
  "basis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준",
@@ -243,9 +243,9 @@
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/61539"
   },
   "hlow-front-deluxe": {
-   "base": 240000,
-   "checkedAt": "2026-11-16",
-   "priceBasis": "호스트 공개 요금표 · 301호 2인 24만원부터 · 제휴 예약처의 날짜별 판매가와 다를 수 있음",
+   "base": 270000,
+   "checkedAt": "2026-11-17",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 301 프론트 오션 디럭스 2026-11-24~25 1박 · 2026-11-17 조회 · 날짜별 변동",
    "room": "301 프론트 오션 디럭스",
    "sourceUrl": "https://www.stayfolio.com/findstay/hlow-busan"
   },

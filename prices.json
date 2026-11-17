@@ -1,13 +1,13 @@
 {
- "updatedAt": "2026-11-17T11:08:58+09:00",
+ "updatedAt": "2026-11-17T11:19:14+09:00",
  "targetCheckIn": "2026-11-24",
  "targetCheckOut": "2026-11-25",
  "basis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준",
  "stays": {
   "exp-pool-yoonsl": {
    "base": 260000,
-   "checkedAt": "2026-11-16",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프리미어 B 2026-11-24~25 1박 · 2026-11-16 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-17",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프리미어 B 2026-11-24~25 1박 · 2026-11-17 조회 · 날짜별 변동",
    "room": "프리미어 B",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90245"
   },

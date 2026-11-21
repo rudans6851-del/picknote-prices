@@ -1,55 +1,55 @@
 {
- "updatedAt": "2026-11-21T07:14:48+09:00",
- "targetCheckIn": "2026-11-24",
- "targetCheckOut": "2026-11-25",
+ "updatedAt": "2026-11-22T07:17:17+09:00",
+ "targetCheckIn": "2026-12-01",
+ "targetCheckOut": "2026-12-02",
  "basis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준",
  "stays": {
   "exp-pool-yoonsl": {
    "base": 260000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프리미어 B 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프리미어 B 2026-12-01~2026-12-02 1박",
    "room": "프리미어 B",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90245"
   },
   "ieum-gamseong": {
    "base": 180000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 감성채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 감성채 2026-12-01~2026-12-02 1박",
    "room": "감성채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89010"
   },
   "riverside-a": {
    "base": 300000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A동 · 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A동(독채) 2026-12-01~2026-12-02 1박",
    "room": "A동 · 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73699"
   },
   "exp-pool-leblanc": {
    "base": 99000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A05 · 수영장 없는 객실 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A05(수영장없음) 2026-12-01~2026-12-02 1박",
    "room": "A05 · 수영장 없는 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85806"
   },
   "exp-pool-cier": {
    "base": 119000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 301호 · 리버뷰 풀빌라 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [리버뷰/풀빌라] 301호 2026-12-01~2026-12-02 1박",
    "room": "301호 · 리버뷰 풀빌라",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70129"
   },
   "ihwa-hwangryeon": {
    "base": 90000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 황련 · 온돌·한식조식 포함 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 황련 (온돌, 한식조식 포함) 2026-12-01~2026-12-02 1박",
    "room": "황련 · 온돌·한식조식 포함",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89395"
   },
   "deoki-house": {
    "base": 230000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 덕이 펜션 · 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 덕이 펜션 2026-12-01~2026-12-02 1박",
    "room": "덕이 펜션 · 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71600"
   },
@@ -61,65 +61,65 @@
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64250"
   },
   "exp-pool-mile207": {
-   "base": 99000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 2동 · 반려견 동반 객실 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 119000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 2동(조식 무료/애견동반가능) 2026-12-01~2026-12-02 1박",
    "room": "2동 · 반려견 동반 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90278"
   },
   "dodamheon-house": {
    "base": 313600,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 도담헌 · 한옥 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 도담헌 2026-12-01~2026-12-02 1박",
    "room": "도담헌 · 한옥 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73854"
   },
   "honghyeon-main": {
    "base": 270000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 본채 · 독채형 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 본채 2026-12-01~2026-12-02 1박",
    "room": "본채 · 독채형",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90390"
   },
   "exp-pool-amoris": {
    "base": 190000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 3st · 복층 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 3st 2026-12-01~2026-12-02 1박",
    "room": "3st · 복층 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/78456"
   },
   "dongodang-cheongun": {
    "base": 150000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 청운 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 청운 2026-12-01~2026-12-02 1박",
    "room": "청운",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87590"
   },
   "taean-2n3d": {
    "base": 180000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 · 투룸·대형 욕조 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채(투룸,노래방,대형욕조) 2026-12-01~2026-12-02 1박",
    "room": "독채 · 투룸·대형 욕조",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83818"
   },
   "exp-pool-dao": {
-   "base": 209000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 쏠비치 · 독채 실내풀 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 229000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 쏠비치 2026-12-01~2026-12-02 1박",
    "room": "쏠비치 · 독채 실내풀",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/81937"
   },
   "pungryuheon-house": {
-   "base": 368000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 풍류헌 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 372000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 풍류헌 독채 2026-12-01~2026-12-02 1박",
    "room": "풍류헌 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/82666"
   },
   "brick-101": {
-   "base": 129000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 101 · 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 150000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 101 2026-12-01~2026-12-02 1박",
    "room": "101 · 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/82729"
   },
@@ -132,36 +132,36 @@
   },
   "sosojeong-house": {
    "base": 156800,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 소소정 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-12-01~2026-12-02 1박",
    "room": "소소정 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75719"
   },
   "mulmeong-house": {
    "base": 199000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 · 루프탑 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [독채/루프탑] 물멍물멍 2026-12-01~2026-12-02 1박",
    "room": "독채 · 루프탑",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87839"
   },
   "exp-pool-youme": {
    "base": 149000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · ME 302호 · 소형 개별풀 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · ME 302호 2026-12-01~2026-12-02 1박",
    "room": "ME 302호 · 소형 개별풀",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84426"
   },
   "coco-summer": {
-   "base": 100000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 여름 · 2인 객실 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 90000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 여름 2026-12-01~2026-12-02 1박",
    "room": "여름 · 2인 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86937"
   },
   "onthehill-pine": {
    "base": 213500,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 파인뷰 · 독채·벽난로 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 파인뷰 (독채/불멍/벽난로/노래방) 2026-12-01~2026-12-02 1박",
    "room": "파인뷰 · 독채·벽난로",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84689"
   },
@@ -174,127 +174,127 @@
   },
   "sumiyeonga-house": {
    "base": 370000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 수미연가 한옥스테이 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 수미연가 한옥스테이 2026-12-01~2026-12-02 1박",
    "room": "수미연가 한옥스테이",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80359"
   },
   "gangneung115": {
    "base": 399000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 · 실내 온수풀 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 115풀빌라 2026-12-01~2026-12-02 1박",
    "room": "독채 · 실내 온수풀",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86119"
   },
   "hwarim-seonhwa": {
    "base": 120000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 선화 · 2인 한옥 객실 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 선화　 2026-12-01~2026-12-02 1박",
    "room": "선화 · 2인 한옥 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88328"
   },
   "siesta-107": {
    "base": 125000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 107호 · 오션뷰 히노끼스위트 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [오션뷰/히노끼스위트] 107호 2026-12-01~2026-12-02 1박",
    "room": "107호 · 오션뷰 히노끼스위트",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84903"
   },
   "nani-house": {
    "base": 230000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 나니 · 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 나니 2026-12-01~2026-12-02 1박",
    "room": "나니 · 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73521"
   },
   "casa-e": {
    "base": 200000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · E동 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · E동_독채 2026-12-01~2026-12-02 1박",
    "room": "E동 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85802"
   },
   "museum-valley-b": {
    "base": 125000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · Valley B · 2인 객실 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [공방 패키지] Valley B 2인 Room Only 2026-12-01~2026-12-02 1박",
    "room": "Valley B · 2인 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/62275"
   },
   "maison-203": {
    "base": 60000,
-   "checkedAt": "2026-11-16",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 203호(더블룸) 2026-12-01~02 1박 · 11-24는 마감이어서 가까운 평일로 조회 · 2026-11-16 확인 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 203호(더블룸) 2026-12-01~2026-12-02 1박",
    "room": "203호 · 더블룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64152"
   },
   "tbay-b101": {
-   "base": 199000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · B101 · 개별 미니풀 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 320000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · B101 2026-12-01~2026-12-02 1박",
    "room": "B101 · 개별 미니풀",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/68454"
   },
   "moonlight-sun": {
    "base": 120000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 햇빛방 · 취사 불가 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 햇빛방 2026-12-01~2026-12-02 1박",
    "room": "햇빛방 · 취사 불가",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/61539"
   },
   "hlow-front-deluxe": {
    "base": 280000,
-   "checkedAt": "2026-11-17",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 401 프론트 오션 디럭스 2026-12-01~02 1박 · 2026-11-17 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 401 프론트 오션 디럭스 2026-12-01~2026-12-02 1박",
    "room": "401 프론트 오션 디럭스",
    "sourceUrl": "https://www.stayfolio.com/findstay/hlow-busan"
   },
   "dpool-2f": {
-   "base": 280000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 풀빌라 2F 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 320000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 풀빌라(2F) 2026-12-01~2026-12-02 1박",
    "room": "풀빌라 2F",
    "sourceUrl": "https://dpool.co.kr/theme/basic/room1.php"
   },
   "gureung-yeonga": {
    "base": 280000,
-   "checkedAt": "2026-11-16",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 구릉연가 독채 2026-12-01~02 1박 · 11월 평일은 예약 불가여서 가까운 평일로 조회 · 2026-11-16 확인 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 구릉연가 2026-12-01~2026-12-02 1박",
    "room": "한옥 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70848"
   },
   "breathe-laidback-small": {
-   "base": 179000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 레이드백 Small 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 196000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 레이드백 스몰 2026-12-01~2026-12-02 1박",
    "room": "레이드백 Small",
    "sourceUrl": "https://www.stayfolio.com/findstay/breathe-by-matie"
   },
   "interview-standard202": {
-   "base": 88000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드 202 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 110000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드 202 2026-12-01~2026-12-02 1박",
    "room": "스탠다드 202",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83376"
   },
   "bonie-villa-a": {
    "base": 219000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 빌라 A · 독채/풀빌라 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 빌라A(독채/풀빌라) 2026-12-01~2026-12-02 1박",
    "room": "빌라 A · 독채/풀빌라",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75748"
   },
   "wang-jeong4": {
-   "base": 134000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 정 4품 · 2인 객실 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 128000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 정 4품 2026-12-01~2026-12-02 1박",
    "room": "정 4품 · 2인 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/69826"
   },
   "mind-jasmine": {
-   "base": 189000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 쟈스민 · 히노끼 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 209000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 쟈스민(히노끼) 2026-12-01~2026-12-02 1박",
    "room": "쟈스민 · 히노끼",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64879"
   },
@@ -307,8 +307,8 @@
   },
   "seoul-deokseonjae": {
    "base": 336000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 덕선재 객실 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 덕선재 객실 2026-12-01~2026-12-02 1박",
    "room": "덕선재 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80431"
   },
@@ -321,92 +321,92 @@
   },
   "seoul-bukchon-daon": {
    "base": 120000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 별채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 별채 2026-12-01~2026-12-02 1박",
    "room": "별채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88556"
   },
   "seoul-simsanjae": {
    "base": 330000,
-   "checkedAt": "2026-11-16",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 한옥 독채 2026-12-01~2026-12-02 1박 · 2026-11-16 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 한옥 독채 2026-12-01~2026-12-02 1박",
    "room": "한옥 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88801"
   },
   "busan-hwayangyeonhwa": {
    "base": 190000,
-   "checkedAt": "2026-11-20",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A동 2026-11-24~25 1박 · 2026-11-20 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A동 2026-12-01~2026-12-02 1박",
    "room": "A동",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85376"
   },
   "busan-solstay": {
-   "base": 200000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 301 Private Pool 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 210000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 301 Private Pool 2026-12-01~2026-12-02 1박",
    "room": "301 Private Pool",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74581"
   },
   "busan-pollmare": {
-   "base": 190000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 401호 · 오션뷰·수영장·노천스파 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 200000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 401호(오션뷰+수영장무료+노천스파무료) 2026-12-01~2026-12-02 1박",
    "room": "401호 · 오션뷰·수영장·노천스파",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85959"
   },
   "incheon-bohena": {
    "base": 400000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · POOLVILLA 301 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · POOLVILLA 301(객실 내 수영장 / 4계절온수풀 무료) 2026-12-01~2026-12-02 1박",
    "room": "POOLVILLA 301",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72775"
   },
   "incheon-ondam": {
    "base": 90000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드룸 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드룸 2026-12-01~2026-12-02 1박",
    "room": "스탠다드룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89131"
   },
   "ulsan-viewrest": {
    "base": 470000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-12-01~2026-12-02 1박",
    "room": "독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/79950"
   },
   "ulsan-haveon": {
-   "base": 169000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A101호 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 189000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A101호 2026-12-01~2026-12-02 1박",
    "room": "A101호",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75842"
   },
   "ulsan-cape": {
    "base": 499000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-12-01~2026-12-02 1박",
    "room": "독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87925"
   },
   "daegu-hanok-aneuk": {
    "base": 160000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 소나무 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 소나무 2026-12-01~2026-12-02 1박",
    "room": "소나무",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/92939"
   },
   "jeju-samui": {
    "base": 210000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · D타입 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · D타입 2026-12-01~2026-12-02 1박",
    "room": "D타입",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71123"
   },
   "jeju-guelang": {
    "base": 210000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A Type 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A Type 2026-12-01~2026-12-02 1박",
    "room": "A Type",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80125"
   },
@@ -425,37 +425,37 @@
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/57978"
   },
   "jeju-gopeunchae": {
-   "base": 246400,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 곱은채 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 280000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 곱은채 2026-12-01~2026-12-02 1박",
    "room": "곱은채 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/76578"
   },
   "sokcho-wneowajiseda": {
-   "base": 249000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A601 · 실내풀빌라·오션뷰 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 289000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A601(풀오션뷰,실내풀빌라,스파,테라스) 2026-12-01~2026-12-02 1박",
    "room": "A601 · 실내풀빌라·오션뷰",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88749"
   },
   "sokcho-stayore": {
-   "base": 198000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 304 · 오션뷰·자쿠지 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 255000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 304 2026-12-01~2026-12-02 1박",
    "room": "304 · 오션뷰·자쿠지",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/92589"
   },
   "goseong-staydining-san": {
    "base": 290000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · The 소소한 Room3 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · The 소소(关关)한 Room3 2026-12-01~2026-12-02 1박",
    "room": "The 소소한 Room3",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74900"
   },
   "goseong-cottemaison": {
    "base": 249000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 꼬뜨베 202 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 꼬뜨베 202 2026-12-01~2026-12-02 1박",
    "room": "꼬뜨베 202",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/91623"
   },
@@ -468,36 +468,36 @@
   },
   "geoje-lucello": {
    "base": 240000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · SUITE_A 201 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · SUITE_A 201 2026-12-01~2026-12-02 1박",
    "room": "SUITE_A 201",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/58116"
   },
   "geoje-starmarine": {
    "base": 99000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 101 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 101 2026-12-01~2026-12-02 1박",
    "room": "101",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75927"
   },
   "tongyeong-badauigibun": {
    "base": 219000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 202호 호수온 스위트룸 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 2층 202호 호수온 스위트룸 (25평형) 2026-12-01~2026-12-02 1박",
    "room": "202호 호수온 스위트룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72407"
   },
   "tongyeong-elpis36": {
    "base": 159000,
-   "checkedAt": "2026-11-17",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 204 · 오션뷰 풀빌라 2026-11-24~25 1박 · 2026-11-17 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 204(오션뷰,풀빌라) 2026-12-01~2026-12-02 1박",
    "room": "204 · 오션뷰 풀빌라",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/69283"
   },
   "andong-seorindang": {
    "base": 150000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 서린당 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 서린당 독채 2026-12-01~2026-12-02 1박",
    "room": "서린당 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73659"
   },
@@ -510,29 +510,29 @@
   },
   "hadong-sosohwagae": {
    "base": 170000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · Stay5 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · Stay5 2026-12-01~2026-12-02 1박",
    "room": "Stay5",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85468"
   },
   "gongju-dalbitjeongwon": {
    "base": 100000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 달빛둘 2F 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 달빛둘 2F 2026-12-01~2026-12-02 1박",
    "room": "달빛둘 2F",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89668"
   },
   "buyeo-nongbuihouse": {
    "base": 246400,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [2인객실] 부여농부의집 (기준2인/최대2인) 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [2인객실] 부여농부의집 (기준2인/최대2인) 2026-12-01~2026-12-02 1박",
    "room": "[2인객실] 부여농부의집 (기준2인/최대2인)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73503"
   },
   "danyang-gauri": {
    "base": 190400,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프라이빗룸 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프라이빗룸 2026-12-01~2026-12-02 1박",
    "room": "프라이빗룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71656"
   },
@@ -545,127 +545,127 @@
   },
   "jeongseon-toumaru": {
    "base": 140000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 사랑처럼 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 사랑처럼 2026-12-01~2026-12-02 1박",
    "room": "사랑처럼",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71679"
   },
   "hongcheon-barnshill": {
-   "base": 270000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 7BARN (20평형, 비애견) 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 310000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 7BARN (20평형, 비애견) 2026-12-01~2026-12-02 1박",
    "room": "7BARN (20평형, 비애견)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83296"
   },
   "boryeong-elice": {
    "base": 410000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프리미어 스파 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프리미어 스파 2026-12-01~2026-12-02 1박",
    "room": "프리미어 스파",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80803"
   },
   "mungyeong-polaris": {
    "base": 100000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 작은곰 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 작은곰 2026-12-01~2026-12-02 1박",
    "room": "작은곰",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71755"
   },
   "yeongdeok-searest": {
    "base": 130000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A301(오션뷰,실외풀,실외스파) 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A301(오션뷰,실외풀,실외스파) 2026-12-01~2026-12-02 1박",
    "room": "A301(오션뷰,실외풀,실외스파)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88751"
   },
   "yangyang-paran": {
    "base": 345000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-12-01~2026-12-02 1박",
    "room": "독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/76305"
   },
   "chuncheon-staysohyang": {
    "base": 300000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스테이소향 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스테이소향 2026-12-01~2026-12-02 1박",
    "room": "스테이소향",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90396"
   },
   "taean-thehillstay": {
    "base": 290000,
-   "checkedAt": "2026-11-20",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 더힐 독채 풀빌라 2026-11-24~25 1박 · 2026-11-20 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 더힐 독채 풀빌라 2026-12-01~2026-12-02 1박",
    "room": "더힐 독채 풀빌라",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83945"
   },
   "damyang-glise977": {
-   "base": 139300,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 304호(30B) 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 159200,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 304호(30B) 2026-12-01~2026-12-02 1박",
    "room": "304호(30B)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87191"
   },
   "yangpyeong-console": {
    "base": 350000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 콘솔양평 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 콘솔양평 2026-12-01~2026-12-02 1박",
    "room": "콘솔양평",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73971"
   },
   "ganghwa-haimari": {
    "base": 225000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A동(프라이빗 독채) 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A동(프라이빗 독채) 2026-12-01~2026-12-02 1박",
    "room": "A동(프라이빗 독채)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90538"
   },
   "cheongsong-hanokan": {
-   "base": 225000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 참봉댁 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 120000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 참봉댁 2026-12-01~2026-12-02 1박",
    "room": "참봉댁",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90674"
   },
   "uljin-beatrice": {
    "base": 180000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 풀빌라101호 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 풀빌라101호 2026-12-01~2026-12-02 1박",
    "room": "풀빌라101호",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85838"
   },
   "jeju-sinseong-boutique": {
    "base": 110000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [부티크] 트윈룸 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [부티크] 트윈룸 2026-12-01~2026-12-02 1박",
    "room": "[부티크] 트윈룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74933"
   },
   "jeju-pyeongpyeong": {
-   "base": 397600,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 돌집 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 399840,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 돌집 2026-12-01~2026-12-02 1박",
    "room": "돌집",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73497"
   },
   "namhae-osida": {
-   "base": 167000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 랜덤(Room Only) 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 168000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 랜덤(Room Only) 2026-12-01~2026-12-02 1박",
    "room": "랜덤(Room Only)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72639"
   },
   "namhae-graenamhae": {
    "base": 170000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 그래 1호 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 그래 1호 2026-12-01~2026-12-02 1박",
    "room": "그래 1호",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86012"
   },
   "gangneung-kkarong": {
    "base": 179200,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 까롱별장 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 까롱별장 2026-12-01~2026-12-02 1박",
    "room": "까롱별장",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72419"
   },
@@ -678,29 +678,29 @@
   },
   "gyeongju-jasmine": {
    "base": 179200,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 자스민 채 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 자스민 채 2026-12-01~2026-12-02 1박",
    "room": "자스민 채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73216"
   },
   "yeosu-suitestay": {
    "base": 320000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 디럭스 오션뷰 스위트 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 디럭스 오션뷰 스위트 2026-12-01~2026-12-02 1박",
    "room": "디럭스 오션뷰 스위트",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/78998"
   },
   "gapyeong-stayvian": {
    "base": 260000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A1 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A1 2026-12-01~2026-12-02 1박",
    "room": "A1",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86702"
   },
   "sokcho-aoi": {
-   "base": 60000,
-   "checkedAt": "2026-11-21",
-   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드 트윈 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
+   "base": 70000,
+   "checkedAt": "2026-11-22",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드 트윈 2026-12-01~2026-12-02 1박",
    "room": "스탠다드 트윈",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90297"
   }

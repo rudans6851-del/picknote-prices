@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T07:18:25+09:00",
+ "updatedAt": "2026-11-26T20:22:41+09:00",
  "targetCheckIn": "2026-12-01",
  "targetCheckOut": "2026-12-02",
  "basis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준",
@@ -9,49 +9,63 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프리미어 B 2026-12-01~2026-12-02 1박",
    "room": "프리미어 B",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90245"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90245",
+   "discountPrice": 217000,
+   "discountRate": 0.16
   },
   "ieum-gamseong": {
    "base": 200000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 감성채 2026-12-01~2026-12-02 1박",
    "room": "감성채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89010"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89010",
+   "discountPrice": 180000,
+   "discountRate": 0.1
   },
   "riverside-a": {
    "base": 300000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A동(독채) 2026-12-01~2026-12-02 1박",
    "room": "A동 · 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73699"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73699",
+   "discountPrice": 243000,
+   "discountRate": 0.19
   },
   "exp-pool-leblanc": {
    "base": 99000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A05(수영장없음) 2026-12-01~2026-12-02 1박",
    "room": "A05 · 수영장 없는 객실",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85806"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85806",
+   "discountPrice": null,
+   "discountRate": null
   },
   "exp-pool-cier": {
    "base": 119000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [리버뷰/풀빌라] 301호 2026-12-01~2026-12-02 1박",
    "room": "301호 · 리버뷰 풀빌라",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70129"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70129",
+   "discountPrice": 109000,
+   "discountRate": 0.08
   },
   "ihwa-hwangryeon": {
    "base": 90000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 황련 (온돌, 한식조식 포함) 2026-12-01~2026-12-02 1박",
    "room": "황련 · 온돌·한식조식 포함",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89395"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89395",
+   "discountPrice": 81000,
+   "discountRate": 0.1
   },
   "deoki-house": {
    "base": 230000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 덕이 펜션 2026-12-01~2026-12-02 1박",
    "room": "덕이 펜션 · 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71600"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71600",
+   "discountPrice": null,
+   "discountRate": null
   },
   "exp-pool-cliff": {
    "base": 120000,
@@ -65,49 +79,63 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 2동(조식 무료/애견동반가능) 2026-12-01~2026-12-02 1박",
    "room": "2동 · 반려견 동반 객실",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90278"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90278",
+   "discountPrice": null,
+   "discountRate": null
   },
   "dodamheon-house": {
    "base": 313600,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 도담헌 2026-12-01~2026-12-02 1박",
    "room": "도담헌 · 한옥 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73854"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73854",
+   "discountPrice": null,
+   "discountRate": null
   },
   "honghyeon-main": {
    "base": 270000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 본채 2026-12-01~2026-12-02 1박",
    "room": "본채 · 독채형",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90390"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90390",
+   "discountPrice": null,
+   "discountRate": null
   },
   "exp-pool-amoris": {
    "base": 190000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 3st 2026-12-01~2026-12-02 1박",
    "room": "3st · 복층 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/78456"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/78456",
+   "discountPrice": null,
+   "discountRate": null
   },
   "dongodang-cheongun": {
    "base": 150000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 청운 2026-12-01~2026-12-02 1박",
    "room": "청운",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87590"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87590",
+   "discountPrice": 122500,
+   "discountRate": 0.18
   },
   "taean-2n3d": {
    "base": 180000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채(투룸,노래방,대형욕조) 2026-12-01~2026-12-02 1박",
    "room": "독채 · 투룸·대형 욕조",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83818"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83818",
+   "discountPrice": null,
+   "discountRate": null
   },
   "exp-pool-dao": {
    "base": 229000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 쏠비치 2026-12-01~2026-12-02 1박",
    "room": "쏠비치 · 독채 실내풀",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/81937"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/81937",
+   "discountPrice": null,
+   "discountRate": null
   },
   "pungryuheon-house": {
    "base": 372000,
@@ -121,7 +149,9 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 101 2026-12-01~2026-12-02 1박",
    "room": "101 · 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/82729"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/82729",
+   "discountPrice": null,
+   "discountRate": null
   },
   "exp-pool-ori": {
    "base": 249000,
@@ -135,35 +165,45 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-12-01~2026-12-02 1박",
    "room": "소소정 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75719"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75719",
+   "discountPrice": null,
+   "discountRate": null
   },
   "mulmeong-house": {
    "base": 199000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [독채/루프탑] 물멍물멍 2026-12-01~2026-12-02 1박",
    "room": "독채 · 루프탑",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87839"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87839",
+   "discountPrice": null,
+   "discountRate": null
   },
   "exp-pool-youme": {
    "base": 149000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · ME 302호 2026-12-01~2026-12-02 1박",
    "room": "ME 302호 · 소형 개별풀",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84426"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84426",
+   "discountPrice": 140060,
+   "discountRate": 0.06
   },
   "coco-summer": {
    "base": 90000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 여름 2026-12-01~2026-12-02 1박",
    "room": "여름 · 2인 객실",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86937"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86937",
+   "discountPrice": 85500,
+   "discountRate": 0.05
   },
   "onthehill-pine": {
    "base": 213500,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 파인뷰 (독채/불멍/벽난로/노래방) 2026-12-01~2026-12-02 1박",
    "room": "파인뷰 · 독채·벽난로",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84689"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84689",
+   "discountPrice": null,
+   "discountRate": null
   },
   "seoji-damchae": {
    "base": 259000,
@@ -177,126 +217,186 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 수미연가 한옥스테이 2026-12-01~2026-12-02 1박",
    "room": "수미연가 한옥스테이",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80359"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80359",
+   "discountPrice": null,
+   "discountRate": null
   },
   "gangneung115": {
    "base": 399000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 115풀빌라 2026-12-01~2026-12-02 1박",
    "room": "독채 · 실내 온수풀",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86119"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86119",
+   "discountPrice": 375060,
+   "discountRate": 0.06
   },
   "hwarim-seonhwa": {
    "base": 120000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 선화　 2026-12-01~2026-12-02 1박",
    "room": "선화 · 2인 한옥 객실",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88328"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88328",
+   "discountPrice": null,
+   "discountRate": null
   },
   "siesta-107": {
    "base": 125000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [오션뷰/히노끼스위트] 107호 2026-12-01~2026-12-02 1박",
    "room": "107호 · 오션뷰 히노끼스위트",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84903"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84903",
+   "discountPrice": null,
+   "discountRate": null
   },
   "nani-house": {
    "base": 230000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 나니 2026-12-01~2026-12-02 1박",
    "room": "나니 · 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73521"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73521",
+   "discountPrice": null,
+   "discountRate": null
   },
   "casa-e": {
    "base": 200000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · E동_독채 2026-12-01~2026-12-02 1박",
    "room": "E동 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85802"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85802",
+   "discountPrice": 188000,
+   "discountRate": 0.06
   },
   "museum-valley-b": {
    "base": 125000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [공방 패키지] Valley B 2인 Room Only 2026-12-01~2026-12-02 1박",
    "room": "Valley B · 2인 객실",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/62275"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/62275",
+   "discountPrice": null,
+   "discountRate": null
   },
   "maison-203": {
    "base": 60000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 203호(더블룸) 2026-12-01~2026-12-02 1박",
    "room": "203호 · 더블룸",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64152"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64152",
+   "discountPrice": null,
+   "discountRate": null
   },
   "tbay-b101": {
    "base": 320000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · B101 2026-12-01~2026-12-02 1박",
    "room": "B101 · 개별 미니풀",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/68454"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/68454",
+   "discountPrice": 300800,
+   "discountRate": 0.06
   },
   "moonlight-sun": {
    "base": 120000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 햇빛방 2026-12-01~2026-12-02 1박",
    "room": "햇빛방 · 취사 불가",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/61539"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/61539",
+   "discountPrice": null,
+   "discountRate": null
   },
   "hlow-front-deluxe": {
    "base": 280000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 401 프론트 오션 디럭스 2026-12-01~2026-12-02 1박",
    "room": "401 프론트 오션 디럭스",
-   "sourceUrl": "https://www.stayfolio.com/findstay/hlow-busan"
+   "sourceUrl": "https://www.stayfolio.com/findstay/hlow-busan",
+   "discountPrice": null,
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "401 프론트 오션 디럭스",
+    "price": 280000,
+    "listPrice": 290000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10056792?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02",
+    "note": "NOL 302 하프오션 240,000원이 최저, 401은 280,000원"
+   }
   },
   "dpool-2f": {
    "base": 320000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 풀빌라(2F) 2026-12-01~2026-12-02 1박",
    "room": "풀빌라 2F",
-   "sourceUrl": "https://dpool.co.kr/theme/basic/room1.php"
+   "sourceUrl": "https://dpool.co.kr/theme/basic/room1.php",
+   "discountPrice": 310000,
+   "discountRate": null
   },
   "gureung-yeonga": {
    "base": 280000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 구릉연가 2026-12-01~2026-12-02 1박",
    "room": "한옥 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70848"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70848",
+   "discountPrice": null,
+   "discountRate": null
   },
   "breathe-laidback-small": {
    "base": 196000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 레이드백 스몰 2026-12-01~2026-12-02 1박",
    "room": "레이드백 Small",
-   "sourceUrl": "https://www.stayfolio.com/findstay/breathe-by-matie"
+   "sourceUrl": "https://www.stayfolio.com/findstay/breathe-by-matie",
+   "discountPrice": null,
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "레이드백 Small",
+    "price": 196000,
+    "listPrice": 196000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10044985?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02",
+    "note": "NOL·여기어때 모두 레이드백 Small 196,000원 동일"
+   }
   },
   "interview-standard202": {
    "base": 140000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드 202 2026-12-01~2026-12-02 1박",
    "room": "스탠다드 202",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83376"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83376",
+   "discountPrice": 110000,
+   "discountRate": 0.21
   },
   "bonie-villa-a": {
    "base": 219000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 빌라A(독채/풀빌라) 2026-12-01~2026-12-02 1박",
    "room": "빌라 A · 독채/풀빌라",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75748"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75748",
+   "discountPrice": 190567,
+   "discountRate": 0.12
   },
   "wang-jeong4": {
    "base": 128000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 정 4품 2026-12-01~2026-12-02 1박",
    "room": "정 4품 · 2인 객실",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/69826"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/69826",
+   "discountPrice": 115200,
+   "discountRate": 0.1
   },
   "mind-jasmine": {
    "base": 209000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 쟈스민(히노끼) 2026-12-01~2026-12-02 1박",
    "room": "쟈스민 · 히노끼",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64879"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64879",
+   "discountPrice": null,
+   "discountRate": null
   },
   "podo-deluxe-west": {
    "base": 560000,
@@ -310,7 +410,9 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 덕선재 객실 2026-12-01~2026-12-02 1박",
    "room": "덕선재 객실",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80431"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80431",
+   "discountPrice": null,
+   "discountRate": null
   },
   "seoul-gongsimga": {
    "base": 180000,
@@ -324,91 +426,141 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 별채 2026-12-01~2026-12-02 1박",
    "room": "별채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88556"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88556",
+   "discountPrice": null,
+   "discountRate": null
   },
   "seoul-simsanjae": {
    "base": 330000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 한옥 독채 2026-12-01~2026-12-02 1박",
    "room": "한옥 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88801"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88801",
+   "discountPrice": null,
+   "discountRate": null
   },
   "busan-hwayangyeonhwa": {
    "base": 190000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A동 2026-12-01~2026-12-02 1박",
    "room": "A동",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85376"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85376",
+   "discountPrice": null,
+   "discountRate": null
   },
   "busan-solstay": {
    "base": 200000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 301 Private Pool 2026-12-01~2026-12-02 1박",
    "room": "301 Private Pool",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74581"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74581",
+   "discountPrice": null,
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "301-POOL",
+    "price": 213400,
+    "listPrice": 550000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10051686?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02",
+    "note": "반짝특가 61% 표시. 수영장 이용료 50,000원 현장 별도(양쪽 동일)"
+   }
   },
   "busan-pollmare": {
    "base": 180000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 401호(오션뷰+수영장무료+노천스파무료) 2026-12-01~2026-12-02 1박",
    "room": "401호 · 오션뷰·수영장·노천스파",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85959"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85959",
+   "discountPrice": null,
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "401 (오션뷰+수영장무료+노천스파무료)",
+    "price": 180000,
+    "listPrice": 220000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10042021?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02",
+    "note": "18% 할인 표시. NOL 402호는 예약마감, 여기어때는 402호 예약 가능"
+   }
   },
   "incheon-bohena": {
    "base": 400000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · POOLVILLA 301(객실 내 수영장 / 4계절온수풀 무료) 2026-12-01~2026-12-02 1박",
    "room": "POOLVILLA 301",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72775"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72775",
+   "discountPrice": null,
+   "discountRate": null
   },
   "incheon-ondam": {
    "base": 90000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드룸 2026-12-01~2026-12-02 1박",
    "room": "스탠다드룸",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89131"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89131",
+   "discountPrice": null,
+   "discountRate": null
   },
   "ulsan-viewrest": {
    "base": 470000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-12-01~2026-12-02 1박",
    "room": "독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/79950"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/79950",
+   "discountPrice": null,
+   "discountRate": null
   },
   "ulsan-haveon": {
-   "base": 189000,
+   "base": 169000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A101호 2026-12-01~2026-12-02 1박",
    "room": "A101호",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75842"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75842",
+   "discountPrice": 158860,
+   "discountRate": 0.06
   },
   "ulsan-cape": {
    "base": 499000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-12-01~2026-12-02 1박",
    "room": "독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87925"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87925",
+   "discountPrice": null,
+   "discountRate": null
   },
   "daegu-hanok-aneuk": {
    "base": 160000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 소나무 2026-12-01~2026-12-02 1박",
    "room": "소나무",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/92939"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/92939",
+   "discountPrice": null,
+   "discountRate": null
   },
   "jeju-samui": {
    "base": 210000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · D타입 2026-12-01~2026-12-02 1박",
    "room": "D타입",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71123"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71123",
+   "discountPrice": 203700,
+   "discountRate": null
   },
   "jeju-guelang": {
    "base": 210000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A Type 2026-12-01~2026-12-02 1박",
    "room": "A Type",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80125"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80125",
+   "discountPrice": 191478,
+   "discountRate": 0.08
   },
   "jeju-sedona": {
    "base": 190000,
@@ -429,35 +581,45 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 곱은채 2026-12-01~2026-12-02 1박",
    "room": "곱은채 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/76578"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/76578",
+   "discountPrice": 196400,
+   "discountRate": 0.2
   },
   "sokcho-wneowajiseda": {
-   "base": 289000,
+   "base": 249000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A601(풀오션뷰,실내풀빌라,스파,테라스) 2026-12-01~2026-12-02 1박",
    "room": "A601 · 실내풀빌라·오션뷰",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88749"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88749",
+   "discountPrice": 239000,
+   "discountRate": null
   },
   "sokcho-stayore": {
    "base": 255000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 304 2026-12-01~2026-12-02 1박",
    "room": "304 · 오션뷰·자쿠지",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/92589"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/92589",
+   "discountPrice": 253000,
+   "discountRate": null
   },
   "goseong-staydining-san": {
    "base": 290000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · The 소소(关关)한 Room3 2026-12-01~2026-12-02 1박",
    "room": "The 소소한 Room3",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74900"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74900",
+   "discountPrice": 253800,
+   "discountRate": 0.12
   },
   "goseong-cottemaison": {
    "base": 249000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 꼬뜨베 202 2026-12-01~2026-12-02 1박",
    "room": "꼬뜨베 202",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/91623"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/91623",
+   "discountPrice": 234060,
+   "discountRate": 0.06
   },
   "geoje-zakynthos": {
    "base": 200000,
@@ -471,35 +633,45 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · SUITE_A 201 2026-12-01~2026-12-02 1박",
    "room": "SUITE_A 201",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/58116"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/58116",
+   "discountPrice": 225600,
+   "discountRate": 0.06
   },
   "geoje-starmarine": {
    "base": 99000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 101호 (온수수영장 4월~11월운영/ 스파/ 개별불멍) 2026-12-01~2026-12-02 1박",
    "room": "101",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75927"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75927",
+   "discountPrice": 89100,
+   "discountRate": 0.1
   },
   "tongyeong-badauigibun": {
    "base": 219000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 2층 202호 호수온 스위트룸 (25평형) 2026-12-01~2026-12-02 1박",
    "room": "202호 호수온 스위트룸",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72407"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72407",
+   "discountPrice": null,
+   "discountRate": null
   },
   "tongyeong-elpis36": {
    "base": 159000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 204(오션뷰,풀빌라) 2026-12-01~2026-12-02 1박",
    "room": "204 · 오션뷰 풀빌라",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/69283"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/69283",
+   "discountPrice": null,
+   "discountRate": null
   },
   "andong-seorindang": {
    "base": 150000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 서린당 독채 2026-12-01~2026-12-02 1박",
    "room": "서린당 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73659"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73659",
+   "discountPrice": null,
+   "discountRate": null
   },
   "andong-soyeonjeong": {
    "base": 308000,
@@ -513,28 +685,36 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · Stay5 2026-12-01~2026-12-02 1박",
    "room": "Stay5",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85468"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85468",
+   "discountPrice": 150000,
+   "discountRate": 0.11
   },
   "gongju-dalbitjeongwon": {
    "base": 100000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 달빛둘 2F 2026-12-01~2026-12-02 1박",
    "room": "달빛둘 2F",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89668"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89668",
+   "discountPrice": null,
+   "discountRate": null
   },
   "buyeo-nongbuihouse": {
    "base": 246400,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [2인객실] 부여농부의집 (기준2인/최대2인) 2026-12-01~2026-12-02 1박",
    "room": "[2인객실] 부여농부의집 (기준2인/최대2인)",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73503"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73503",
+   "discountPrice": null,
+   "discountRate": null
   },
   "danyang-gauri": {
    "base": 190400,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프라이빗룸 2026-12-01~2026-12-02 1박",
    "room": "프라이빗룸",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71656"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71656",
+   "discountPrice": null,
+   "discountRate": null
   },
   "pyeongchang-underhill": {
    "base": 110000,
@@ -548,126 +728,162 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 사랑처럼 2026-12-01~2026-12-02 1박",
    "room": "사랑처럼",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71679"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71679",
+   "discountPrice": null,
+   "discountRate": null
   },
   "hongcheon-barnshill": {
    "base": 310000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 7BARN (20평형, 비애견) 2026-12-01~2026-12-02 1박",
    "room": "7BARN (20평형, 비애견)",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83296"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83296",
+   "discountPrice": null,
+   "discountRate": null
   },
   "boryeong-elice": {
    "base": 410000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 프리미어 스파 2026-12-01~2026-12-02 1박",
    "room": "프리미어 스파",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80803"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80803",
+   "discountPrice": 246000,
+   "discountRate": 0.4
   },
   "mungyeong-polaris": {
    "base": 100000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 작은곰 2026-12-01~2026-12-02 1박",
    "room": "작은곰",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71755"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71755",
+   "discountPrice": null,
+   "discountRate": null
   },
   "yeongdeok-searest": {
    "base": 130000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A301(오션뷰,실외풀,실외스파) 2026-12-01~2026-12-02 1박",
    "room": "A301(오션뷰,실외풀,실외스파)",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88751"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88751",
+   "discountPrice": null,
+   "discountRate": null
   },
   "yangyang-paran": {
    "base": 345000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 독채 2026-12-01~2026-12-02 1박",
    "room": "독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/76305"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/76305",
+   "discountPrice": null,
+   "discountRate": null
   },
   "chuncheon-staysohyang": {
    "base": 300000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스테이소향 2026-12-01~2026-12-02 1박",
    "room": "스테이소향",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90396"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90396",
+   "discountPrice": null,
+   "discountRate": null
   },
   "taean-thehillstay": {
    "base": 290000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 더힐 독채 풀빌라 2026-12-01~2026-12-02 1박",
    "room": "더힐 독채 풀빌라",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83945"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83945",
+   "discountPrice": 145000,
+   "discountRate": 0.5
   },
   "damyang-glise977": {
    "base": 159200,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 304호(30B) 2026-12-01~2026-12-02 1박",
    "room": "304호(30B)",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87191"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87191",
+   "discountPrice": null,
+   "discountRate": null
   },
   "yangpyeong-console": {
    "base": 350000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 콘솔양평 2026-12-01~2026-12-02 1박",
    "room": "콘솔양평",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73971"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73971",
+   "discountPrice": null,
+   "discountRate": null
   },
   "ganghwa-haimari": {
    "base": 225000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A동(프라이빗 독채) 2026-12-01~2026-12-02 1박",
    "room": "A동(프라이빗 독채)",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90538"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90538",
+   "discountPrice": 202500,
+   "discountRate": 0.1
   },
   "cheongsong-hanokan": {
    "base": 120000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 참봉댁 2026-12-01~2026-12-02 1박",
    "room": "참봉댁",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90674"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90674",
+   "discountPrice": 112800,
+   "discountRate": 0.06
   },
   "uljin-beatrice": {
    "base": 180000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 풀빌라101호 2026-12-01~2026-12-02 1박",
    "room": "풀빌라101호",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85838"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85838",
+   "discountPrice": 169200,
+   "discountRate": 0.06
   },
   "jeju-sinseong-boutique": {
    "base": 110000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [부티크] 트윈룸 2026-12-01~2026-12-02 1박",
    "room": "[부티크] 트윈룸",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74933"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74933",
+   "discountPrice": 104500,
+   "discountRate": 0.05
   },
   "jeju-pyeongpyeong": {
    "base": 399840,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 돌집 2026-12-01~2026-12-02 1박",
    "room": "돌집",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73497"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73497",
+   "discountPrice": null,
+   "discountRate": null
   },
   "namhae-osida": {
    "base": 168000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 랜덤(Room Only) 2026-12-01~2026-12-02 1박",
    "room": "랜덤(Room Only)",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72639"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72639",
+   "discountPrice": 147920,
+   "discountRate": 0.11
   },
   "namhae-graenamhae": {
    "base": 170000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 그래 1호 2026-12-01~2026-12-02 1박",
    "room": "그래 1호",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86012"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86012",
+   "discountPrice": null,
+   "discountRate": null
   },
   "gangneung-kkarong": {
    "base": 179200,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 까롱별장 2026-12-01~2026-12-02 1박",
    "room": "까롱별장",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72419"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72419",
+   "discountPrice": null,
+   "discountRate": null
   },
   "gangneung-stayiple": {
    "base": 190000,
@@ -681,28 +897,36 @@
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 자스민 채 2026-12-01~2026-12-02 1박",
    "room": "자스민 채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73216"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73216",
+   "discountPrice": null,
+   "discountRate": null
   },
   "yeosu-suitestay": {
    "base": 320000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 디럭스 오션뷰 스위트 2026-12-01~2026-12-02 1박",
    "room": "디럭스 오션뷰 스위트",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/78998"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/78998",
+   "discountPrice": null,
+   "discountRate": null
   },
   "gapyeong-stayvian": {
    "base": 260000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A1 2026-12-01~2026-12-02 1박",
    "room": "A1",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86702"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86702",
+   "discountPrice": 244400,
+   "discountRate": 0.06
   },
   "sokcho-aoi": {
    "base": 70000,
    "checkedAt": "2026-11-26",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드 트윈 2026-12-01~2026-12-02 1박",
    "room": "스탠다드 트윈",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90297"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90297",
+   "discountPrice": null,
+   "discountRate": null
   }
  }
 }

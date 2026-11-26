@@ -11,7 +11,18 @@
    "room": "프리미어 B",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90245",
    "discountPrice": 217000,
-   "discountRate": 0.16
+   "discountRate": 0.16,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "PREMIRE B",
+    "price": 225000,
+    "listPrice": 360000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10046591?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "ieum-gamseong": {
    "base": 200000,
@@ -47,7 +58,18 @@
    "room": "301호 · 리버뷰 풀빌라",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70129",
    "discountPrice": 109000,
-   "discountRate": 0.08
+   "discountRate": 0.08,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "301호",
+    "price": 119000,
+    "listPrice": 145000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10045055?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "ihwa-hwangryeon": {
    "base": 90000,
@@ -117,7 +139,18 @@
    "room": "청운",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87590",
    "discountPrice": 122500,
-   "discountRate": 0.18
+   "discountRate": 0.18,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "청운",
+    "price": 127500,
+    "listPrice": 150000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10065743?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "taean-2n3d": {
    "base": 180000,
@@ -135,7 +168,18 @@
    "room": "쏠비치 · 독채 실내풀",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/81937",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "쏠비치",
+    "price": 229000,
+    "listPrice": 270000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10060228?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "pungryuheon-house": {
    "base": 372000,
@@ -151,7 +195,18 @@
    "room": "101 · 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/82729",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "101",
+    "price": 150000,
+    "listPrice": 250000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10061060?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "exp-pool-ori": {
    "base": 249000,
@@ -176,7 +231,18 @@
    "room": "독채 · 루프탑",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87839",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "물멍물멍",
+    "price": 199000,
+    "listPrice": 259000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10061170?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "exp-pool-youme": {
    "base": 149000,
@@ -228,7 +294,18 @@
    "room": "독채 · 실내 온수풀",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86119",
    "discountPrice": 375060,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "43평 독채 풀빌라",
+    "price": 364000,
+    "listPrice": 700000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10064080?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "hwarim-seonhwa": {
    "base": 120000,
@@ -237,7 +314,18 @@
    "room": "선화 · 2인 한옥 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88328",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "선화",
+    "price": 130950,
+    "listPrice": 135000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/1000105000?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "siesta-107": {
    "base": 125000,
@@ -246,7 +334,18 @@
    "room": "107호 · 오션뷰 히노끼스위트",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84903",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "107호",
+    "price": 125000,
+    "listPrice": 155000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10061089?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "nani-house": {
    "base": 230000,
@@ -339,7 +438,18 @@
    "room": "한옥 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70848",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "구릉연가",
+    "price": 280000,
+    "listPrice": null,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10046742?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "breathe-laidback-small": {
    "base": 196000,
@@ -354,7 +464,7 @@
     "partnerFull": "NOL(야놀자)",
     "room": "레이드백 Small",
     "price": 196000,
-    "listPrice": 196000,
+    "listPrice": null,
     "checkedAt": "2026-11-26",
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
@@ -396,7 +506,18 @@
    "room": "쟈스민 · 히노끼",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64879",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "쟈스민",
+    "price": 177550,
+    "listPrice": 229000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10062492?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "podo-deluxe-west": {
    "base": 560000,
@@ -412,7 +533,18 @@
    "room": "덕선재 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80431",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "2층독채",
+    "price": 336000,
+    "listPrice": null,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10063362?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "seoul-gongsimga": {
    "base": 180000,
@@ -459,14 +591,14 @@
    "compare": {
     "partner": "NOL",
     "partnerFull": "NOL(야놀자)",
-    "room": "301-POOL",
+    "room": "301- POOL",
     "price": 213400,
     "listPrice": 550000,
     "checkedAt": "2026-11-26",
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10051686?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02",
-    "note": "반짝특가 61% 표시. 수영장 이용료 50,000원 현장 별도(양쪽 동일)"
+    "note": "수영장 이용료 50,000원 현장 별도(양쪽 동일)"
    }
   },
   "busan-pollmare": {
@@ -480,14 +612,13 @@
    "compare": {
     "partner": "NOL",
     "partnerFull": "NOL(야놀자)",
-    "room": "401 (오션뷰+수영장무료+노천스파무료)",
+    "room": "401",
     "price": 180000,
     "listPrice": 220000,
     "checkedAt": "2026-11-26",
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
-    "url": "https://nol.yanolja.com/stay/domestic/10042021?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02",
-    "note": "18% 할인 표시. NOL 402호는 예약마감, 여기어때는 402호 예약 가능"
+    "url": "https://nol.yanolja.com/stay/domestic/10042021?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
    }
   },
   "incheon-bohena": {
@@ -592,7 +723,18 @@
    "room": "A601 · 실내풀빌라·오션뷰",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88749",
    "discountPrice": 239000,
-   "discountRate": null
+   "discountRate": null,
+   "compare": {
+    "partner": "NOL",
+    "partnerFull": "NOL(야놀자)",
+    "room": "A601",
+    "price": 249000,
+    "listPrice": 289000,
+    "checkedAt": "2026-11-26",
+    "checkIn": "2026-12-01",
+    "checkOut": "2026-12-02",
+    "url": "https://nol.yanolja.com/stay/domestic/10063126?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   }
   },
   "sokcho-stayore": {
    "base": 255000,

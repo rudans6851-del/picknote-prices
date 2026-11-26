@@ -1,8 +1,11 @@
 {
- "updatedAt": "2026-11-27T07:15:37+09:00",
+ "updatedAt": "2026-11-27T08:05:29+09:00",
  "targetCheckIn": "2026-12-01",
  "targetCheckOut": "2026-12-02",
+ "weekendCheckIn": "2026-11-28",
+ "weekendCheckOut": "2026-11-29",
  "basis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준",
+ "availabilityNote": "stockCount=여기어때 기준 호실 잔여 객실 수(없으면 null), roomAvailable=그 날짜 예약 가능 여부, availableRoomsCount/totalRoomsCount=숙소 전체 객실 중 예약 가능한 수/전체 객실 수(두 날짜 응답의 객실명 합집합), roomAvailable null이면 기준 호실을 못 찾아 판단 불가",
  "stays": {
   "exp-pool-yoonsl": {
    "base": 260000,
@@ -22,6 +25,34 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10046591?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 4,
+     "matchedRoom": "프리미어 B",
+     "matchHow": "exact",
+     "stockCount": 2,
+     "roomAvailable": true,
+     "base": 260000,
+     "discountPrice": 217000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 2,
+     "matchedRoom": "프리미어 B",
+     "matchHow": "exact",
+     "stockCount": 2,
+     "roomAvailable": true,
+     "base": 360000,
+     "discountPrice": 307000
+    }
    }
   },
   "ieum-gamseong": {
@@ -31,7 +62,32 @@
    "room": "감성채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89010",
    "discountPrice": 180000,
-   "discountRate": 0.1
+   "discountRate": 0.1,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "감성채",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 200000,
+     "discountPrice": 180000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 1,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "riverside-a": {
    "base": 300000,
@@ -40,7 +96,32 @@
    "room": "A동 · 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73699",
    "discountPrice": 243000,
-   "discountRate": 0.19
+   "discountRate": 0.19,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "A동(독채)",
+     "matchHow": "compact-nobracket",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 300000,
+     "discountPrice": 243000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "exp-pool-leblanc": {
    "base": 99000,
@@ -49,7 +130,31 @@
    "room": "A05 · 수영장 없는 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85806",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 11,
+     "availableRoomsCount": 10,
+     "matchedRoom": "A05(수영장없음)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 99000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 11,
+     "availableRoomsCount": 4,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "exp-pool-cier": {
    "base": 119000,
@@ -69,6 +174,34 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10045055?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 4,
+     "matchedRoom": "[리버뷰/풀빌라] 301호",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 119000,
+     "discountPrice": 109000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 2,
+     "matchedRoom": "[리버뷰/풀빌라] 301호",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 215000,
+     "discountPrice": 205000
+    }
    }
   },
   "ihwa-hwangryeon": {
@@ -78,7 +211,33 @@
    "room": "황련 · 온돌·한식조식 포함",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89395",
    "discountPrice": 81000,
-   "discountRate": 0.1
+   "discountRate": 0.1,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "availableRoomsCount": 7,
+     "matchedRoom": "황련 (온돌, 한식조식 포함)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 90000,
+     "discountPrice": 81000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "availableRoomsCount": 1,
+     "matchedRoom": "황련 (온돌, 한식조식 포함)",
+     "matchHow": "key",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "deoki-house": {
    "base": 230000,
@@ -87,14 +246,62 @@
    "room": "덕이 펜션 · 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71600",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "덕이 펜션",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 230000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "덕이 펜션",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 270000
+    }
+   }
   },
   "exp-pool-cliff": {
    "base": 120000,
    "checkedAt": "2026-11-21",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 디럭스 오션 305호 · 자쿠지 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
    "room": "디럭스 오션 305호 · 자쿠지",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64250"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64250",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 3,
+     "matchHow": "unmatched",
+     "stockCount": null,
+     "roomAvailable": null
+    }
+   }
   },
   "exp-pool-mile207": {
    "base": 119000,
@@ -103,7 +310,31 @@
    "room": "2동 · 반려견 동반 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90278",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "availableRoomsCount": 7,
+     "matchedRoom": "2동(조식 무료/애견동반가능)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 119000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "availableRoomsCount": 2,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "dodamheon-house": {
    "base": 313600,
@@ -112,7 +343,31 @@
    "room": "도담헌 · 한옥 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73854",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "도담헌",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 313600
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "honghyeon-main": {
    "base": 270000,
@@ -121,7 +376,33 @@
    "room": "본채 · 독채형",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90390",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "본채",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 270000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "본채",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 330000
+    }
+   }
   },
   "exp-pool-amoris": {
    "base": 190000,
@@ -130,7 +411,33 @@
    "room": "3st · 복층 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/78456",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "3st",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 190000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 2,
+     "matchedRoom": "3st",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 230000
+    }
+   }
   },
   "dongodang-cheongun": {
    "base": 150000,
@@ -150,6 +457,32 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10065743?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "청운",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 150000,
+     "discountPrice": 122500
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 0,
+     "matchedRoom": "청운",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
    }
   },
   "taean-2n3d": {
@@ -159,7 +492,32 @@
    "room": "독채 · 투룸·대형 욕조",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83818",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "독채(투룸,노래방,대형욕조)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 180000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 0,
+     "matchedRoom": "독채(투룸,노래방,대형욕조)",
+     "matchHow": "key",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "exp-pool-dao": {
    "base": 229000,
@@ -179,6 +537,32 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10060228?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "쏠비치",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 229000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 1,
+     "matchedRoom": "쏠비치",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 329000
+    }
    }
   },
   "pungryuheon-house": {
@@ -186,7 +570,29 @@
    "checkedAt": "2026-11-24",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 풍류헌 독채 2026-12-01~2026-12-02 1박",
    "room": "풍류헌 독채",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/82666"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/82666",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 0,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 0,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "brick-101": {
    "base": 150000,
@@ -206,6 +612,30 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10061060?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "101",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 150000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
    }
   },
   "exp-pool-ori": {
@@ -213,7 +643,29 @@
    "checkedAt": "2026-11-16",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 401호(와이드오션뷰·개별수영장) 2026-11-26~27 1박 · 11-24는 마감이어서 가까운 평일로 조회 · 2026-11-16 확인 · 날짜별 변동",
    "room": "401호 · 개별 미온수풀",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/81245"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/81245",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 0,
+     "matchHow": "alias-miss(401(와이드오션뷰,개별수영장))",
+     "stockCount": null,
+     "roomAvailable": null
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 0,
+     "matchHow": "alias-miss(401(와이드오션뷰,개별수영장))",
+     "stockCount": null,
+     "roomAvailable": null
+    }
+   }
   },
   "sosojeong-house": {
    "base": 156800,
@@ -222,7 +674,32 @@
    "room": "소소정 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75719",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "독채",
+     "matchHow": "alias",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 156800
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 0,
+     "matchedRoom": "독채",
+     "matchHow": "alias",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "mulmeong-house": {
    "base": 199000,
@@ -242,6 +719,32 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10061170?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "[독채/루프탑] 물멍물멍",
+     "matchHow": "alias",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 199000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "[독채/루프탑] 물멍물멍",
+     "matchHow": "alias",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 399000
+    }
    }
   },
   "exp-pool-youme": {
@@ -251,7 +754,32 @@
    "room": "ME 302호 · 소형 개별풀",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84426",
    "discountPrice": 140060,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 10,
+     "availableRoomsCount": 10,
+     "matchedRoom": "ME 302호",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 149000,
+     "discountPrice": 140060
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 10,
+     "availableRoomsCount": 3,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "coco-summer": {
    "base": 90000,
@@ -260,7 +788,32 @@
    "room": "여름 · 2인 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86937",
    "discountPrice": 85500,
-   "discountRate": 0.05
+   "discountRate": 0.05,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 2,
+     "matchedRoom": "여름",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 90000,
+     "discountPrice": 85500
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 0,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "onthehill-pine": {
    "base": 213500,
@@ -269,14 +822,63 @@
    "room": "파인뷰 · 독채·벽난로",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84689",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "파인뷰 (독채/불멍/벽난로/노래방)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 213500
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "파인뷰 (독채/불멍/벽난로/노래방)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 337800
+    }
+   }
   },
   "seoji-damchae": {
    "base": 259000,
    "checkedAt": "2026-11-21",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 담채 · 독채·개별풀 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
    "room": "담채 · 독채·개별풀",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/82852"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/82852",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 1,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 0,
+     "matchedRoom": "담채",
+     "matchHow": "key",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "sumiyeonga-house": {
    "base": 370000,
@@ -285,7 +887,32 @@
    "room": "수미연가 한옥스테이",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80359",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "수미연가 한옥스테이",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 370000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 0,
+     "matchedRoom": "수미연가 한옥스테이",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "gangneung115": {
    "base": 399000,
@@ -305,6 +932,31 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10064080?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "115풀빌라",
+     "matchHow": "alias",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 399000,
+     "discountPrice": 375060
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
    }
   },
   "hwarim-seonhwa": {
@@ -325,6 +977,31 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/1000105000?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 8,
+     "matchedRoom": "선화　",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 120000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 1,
+     "matchedRoom": "선화　",
+     "matchHow": "key",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
    }
   },
   "siesta-107": {
@@ -345,6 +1022,30 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10061089?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 6,
+     "matchedRoom": "[오션뷰/히노끼스위트] 107호",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 125000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
    }
   },
   "nani-house": {
@@ -354,7 +1055,33 @@
    "room": "나니 · 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73521",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "나니",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 230000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "나니",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 280000
+    }
+   }
   },
   "casa-e": {
    "base": 200000,
@@ -363,7 +1090,32 @@
    "room": "E동 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85802",
    "discountPrice": 188000,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "E동_독채",
+     "matchHow": "compact-nobracket",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 200000,
+     "discountPrice": 188000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 2,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "museum-valley-b": {
    "base": 125000,
@@ -372,7 +1124,33 @@
    "room": "Valley B · 2인 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/62275",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 9,
+     "availableRoomsCount": 9,
+     "matchedRoom": "[공방 패키지] Valley B 2인 Room Only",
+     "matchHow": "contains-key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 125000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 9,
+     "availableRoomsCount": 7,
+     "matchedRoom": "[공방 패키지] Valley B 2인 Room Only",
+     "matchHow": "contains-key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 248000
+    }
+   }
   },
   "maison-203": {
    "base": 60000,
@@ -381,7 +1159,31 @@
    "room": "203호 · 더블룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/64152",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "availableRoomsCount": 7,
+     "matchedRoom": "203호(더블룸)",
+     "matchHow": "compact-nobracket",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 60000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "tbay-b101": {
    "base": 320000,
@@ -390,7 +1192,35 @@
    "room": "B101 · 개별 미니풀",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/68454",
    "discountPrice": 300800,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 10,
+     "availableRoomsCount": 10,
+     "matchedRoom": "B101",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 320000,
+     "discountPrice": 300800
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 10,
+     "availableRoomsCount": 2,
+     "matchedRoom": "B101",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 289000,
+     "discountPrice": 244494
+    }
+   }
   },
   "moonlight-sun": {
    "base": 120000,
@@ -399,7 +1229,31 @@
    "room": "햇빛방 · 취사 불가",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/61539",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "햇빛방",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 120000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "hlow-front-deluxe": {
    "base": 280000,
@@ -420,6 +1274,31 @@
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10056792?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02",
     "note": "NOL 302 하프오션 240,000원이 최저, 401은 280,000원"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 8,
+     "matchedRoom": "401 프론트 오션 디럭스",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 280000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 1,
+     "matchedRoom": "401 프론트 오션 디럭스",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
    }
   },
   "dpool-2f": {
@@ -429,7 +1308,32 @@
    "room": "풀빌라 2F",
    "sourceUrl": "https://dpool.co.kr/theme/basic/room1.php",
    "discountPrice": 310000,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 4,
+     "matchedRoom": "풀빌라(2F)",
+     "matchHow": "exact-nobracket",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 320000,
+     "discountPrice": 310000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 3,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "gureung-yeonga": {
    "base": 280000,
@@ -449,6 +1353,30 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10046742?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "구릉연가",
+     "matchHow": "alias",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 280000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
    }
   },
   "breathe-laidback-small": {
@@ -470,6 +1398,31 @@
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10044985?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02",
     "note": "NOL·여기어때 모두 레이드백 Small 196,000원 동일"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 6,
+     "matchedRoom": "레이드백 스몰",
+     "matchHow": "alias",
+     "stockCount": 10,
+     "roomAvailable": true,
+     "base": 196000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 1,
+     "matchedRoom": "레이드백 스몰 [환불불가-조식 플래터 2인]",
+     "matchHow": "loose-closed",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
    }
   },
   "interview-standard202": {
@@ -479,7 +1432,35 @@
    "room": "스탠다드 202",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83376",
    "discountPrice": 110000,
-   "discountRate": 0.21
+   "discountRate": 0.21,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 5,
+     "matchedRoom": "스탠다드 202",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 140000,
+     "discountPrice": 110000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 2,
+     "matchedRoom": "스탠다드 202",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 210000,
+     "discountPrice": 180000
+    }
+   }
   },
   "bonie-villa-a": {
    "base": 219000,
@@ -488,7 +1469,35 @@
    "room": "빌라 A · 독채/풀빌라",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75748",
    "discountPrice": 190567,
-   "discountRate": 0.12
+   "discountRate": 0.12,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "빌라A(독채/풀빌라)",
+     "matchHow": "compact-nobracket",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 219000,
+     "discountPrice": 190567
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "빌라A(독채/풀빌라)",
+     "matchHow": "compact-nobracket",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 520000,
+     "discountPrice": 459360
+    }
+   }
   },
   "wang-jeong4": {
    "base": 128000,
@@ -497,7 +1506,32 @@
    "room": "정 4품 · 2인 객실",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/69826",
    "discountPrice": 115200,
-   "discountRate": 0.1
+   "discountRate": 0.1,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 9,
+     "availableRoomsCount": 9,
+     "matchedRoom": "정 4품",
+     "matchHow": "key",
+     "stockCount": 4,
+     "roomAvailable": true,
+     "base": 128000,
+     "discountPrice": 115200
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 9,
+     "availableRoomsCount": 0,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "mind-jasmine": {
    "base": 209000,
@@ -517,6 +1551,30 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10062492?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 6,
+     "matchedRoom": "쟈스민(히노끼)",
+     "matchHow": "compact-nobracket",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 209000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 0,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
    }
   },
   "podo-deluxe-west": {
@@ -524,7 +1582,29 @@
    "checkedAt": "2026-11-16",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · [룸온리] 디럭스 양실 트윈 2026-12-15~16 1박 560,000원(정가 880,000원) · 11월 말~12월 중순은 예약 불가여서 판매일로 조회 · 2026-11-16 확인 · 날짜별 변동",
    "room": "디럭스 양실 트윈",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/7250"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/7250",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 0,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 0,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "seoul-deokseonjae": {
    "base": 336000,
@@ -544,6 +1624,30 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10063362?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "덕선재 객실",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 336000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
    }
   },
   "seoul-gongsimga": {
@@ -551,7 +1655,29 @@
    "checkedAt": "2026-11-21",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 쿼터방(전용화장실) 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
    "room": "쿼터방(전용화장실)",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88036"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88036",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 0,
+     "matchHow": "unmatched",
+     "stockCount": null,
+     "roomAvailable": null
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "seoul-bukchon-daon": {
    "base": 120000,
@@ -560,7 +1686,31 @@
    "room": "별채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88556",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "별채",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 120000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "seoul-simsanjae": {
    "base": 330000,
@@ -569,7 +1719,31 @@
    "room": "한옥 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88801",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "한옥 독채",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 330000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "busan-hwayangyeonhwa": {
    "base": 190000,
@@ -578,7 +1752,31 @@
    "room": "A동",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85376",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "A동",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 190000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "busan-solstay": {
    "base": 200000,
@@ -599,6 +1797,30 @@
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10051686?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02",
     "note": "수영장 이용료 50,000원 현장 별도(양쪽 동일)"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 8,
+     "matchedRoom": "301 Private Pool",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 200000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 7,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
    }
   },
   "busan-pollmare": {
@@ -619,6 +1841,32 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10042021?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 8,
+     "matchedRoom": "401호(오션뷰+수영장무료+노천스파무료)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 180000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 6,
+     "matchedRoom": "401호(오션뷰+수영장무료+노천스파무료)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 330000
+    }
    }
   },
   "incheon-bohena": {
@@ -628,7 +1876,32 @@
    "room": "POOLVILLA 301",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72775",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 9,
+     "availableRoomsCount": 9,
+     "matchedRoom": "POOLVILLA 301(객실 내 수영장 / 4계절온수풀 무료)",
+     "matchHow": "noparen",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 400000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 9,
+     "availableRoomsCount": 3,
+     "matchedRoom": "POOLVILLA 301(객실 내 수영장 / 4계절온수풀 무료)",
+     "matchHow": "noparen",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "incheon-ondam": {
    "base": 90000,
@@ -637,7 +1910,31 @@
    "room": "스탠다드룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89131",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "스탠다드룸",
+     "matchHow": "exact",
+     "stockCount": 4,
+     "roomAvailable": true,
+     "base": 90000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 0,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "ulsan-viewrest": {
    "base": 470000,
@@ -646,7 +1943,33 @@
    "room": "독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/79950",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "독채",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 470000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "독채",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 620000
+    }
+   }
   },
   "ulsan-haveon": {
    "base": 169000,
@@ -655,7 +1978,32 @@
    "room": "A101호",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75842",
    "discountPrice": 158860,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 7,
+     "matchedRoom": "A101호",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 169000,
+     "discountPrice": 158860
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 1,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "ulsan-cape": {
    "base": 499000,
@@ -664,7 +2012,31 @@
    "room": "독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87925",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "독채",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 499000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "daegu-hanok-aneuk": {
    "base": 160000,
@@ -673,7 +2045,31 @@
    "room": "소나무",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/92939",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "소나무",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 160000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "jeju-samui": {
    "base": 210000,
@@ -682,7 +2078,35 @@
    "room": "D타입",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71123",
    "discountPrice": 203700,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 2,
+     "matchedRoom": "D타입",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 210000,
+     "discountPrice": 203700
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 2,
+     "matchedRoom": "D타입",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 210000,
+     "discountPrice": 203700
+    }
+   }
   },
   "jeju-guelang": {
    "base": 210000,
@@ -691,21 +2115,95 @@
    "room": "A Type",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80125",
    "discountPrice": 191478,
-   "discountRate": 0.08
+   "discountRate": 0.08,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "A Type",
+     "matchHow": "exact",
+     "stockCount": 2,
+     "roomAvailable": true,
+     "base": 210000,
+     "discountPrice": 191478
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 0,
+     "matchedRoom": "A Type",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "jeju-sedona": {
    "base": 190000,
    "checkedAt": "2026-11-21",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · C타입 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
    "room": "C타입",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71125"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71125",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 2,
+     "matchedRoom": "C타입",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 1,
+     "matchedRoom": "C타입",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "jeju-commonstay": {
    "base": 92000,
    "checkedAt": "2026-11-21",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 시그니쳐 클리프1 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
    "room": "시그니쳐 클리프1",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/57978"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/57978",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 0,
+     "matchedRoom": "시그니쳐 클리프1",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 6,
+     "matchedRoom": "시그니쳐 클리프1",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "jeju-gopeunchae": {
    "base": 246400,
@@ -714,7 +2212,33 @@
    "room": "곱은채 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/76578",
    "discountPrice": 196400,
-   "discountRate": 0.2
+   "discountRate": 0.2,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "곱은채",
+     "matchHow": "alias",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 246400,
+     "discountPrice": 196400
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 0,
+     "matchedRoom": "곱은채",
+     "matchHow": "alias",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "sokcho-wneowajiseda": {
    "base": 249000,
@@ -734,6 +2258,32 @@
     "checkIn": "2026-12-01",
     "checkOut": "2026-12-02",
     "url": "https://nol.yanolja.com/stay/domestic/10063126?adultCount=2&checkInDate=2026-12-01&checkOutDate=2026-12-02"
+   },
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 14,
+     "availableRoomsCount": 9,
+     "matchedRoom": "A601(풀오션뷰,실내풀빌라,스파,테라스)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 249000,
+     "discountPrice": 239000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 14,
+     "availableRoomsCount": 5,
+     "matchedRoom": "A601(풀오션뷰,실내풀빌라,스파,테라스)",
+     "matchHow": "key",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
    }
   },
   "sokcho-stayore": {
@@ -743,7 +2293,33 @@
    "room": "304 · 오션뷰·자쿠지",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/92589",
    "discountPrice": 253000,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 7,
+     "matchedRoom": "304",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 255000,
+     "discountPrice": 253000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 0,
+     "matchedRoom": "304",
+     "matchHow": "key",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "goseong-staydining-san": {
    "base": 290000,
@@ -752,7 +2328,32 @@
    "room": "The 소소한 Room3",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74900",
    "discountPrice": 253800,
-   "discountRate": 0.12
+   "discountRate": 0.12,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 4,
+     "matchedRoom": "The 소소(关关)한 Room3",
+     "matchHow": "noparen",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 290000,
+     "discountPrice": 253800
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 0,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "goseong-cottemaison": {
    "base": 249000,
@@ -761,14 +2362,63 @@
    "room": "꼬뜨베 202",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/91623",
    "discountPrice": 234060,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 10,
+     "availableRoomsCount": 7,
+     "matchedRoom": "꼬뜨베 202",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 249000,
+     "discountPrice": 234060
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 10,
+     "availableRoomsCount": 4,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "geoje-zakynthos": {
    "base": 200000,
    "checkedAt": "2026-11-21",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · A202 · 바다전망 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
    "room": "A202 · 바다전망",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84777"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/84777",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 3,
+     "matchedRoom": "A202(바다전망)",
+     "matchHow": "compact-nobracket",
+     "stockCount": 0,
+     "roomAvailable": false
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 0,
+     "matchedRoom": "A202(바다전망)",
+     "matchHow": "compact-nobracket",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "geoje-lucello": {
    "base": 240000,
@@ -777,7 +2427,35 @@
    "room": "SUITE_A 201",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/58116",
    "discountPrice": 225600,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 11,
+     "availableRoomsCount": 11,
+     "matchedRoom": "SUITE_A 201",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 240000,
+     "discountPrice": 225600
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 11,
+     "availableRoomsCount": 3,
+     "matchedRoom": "SUITE_A 201",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 300000,
+     "discountPrice": 282000
+    }
+   }
   },
   "geoje-starmarine": {
    "base": 99000,
@@ -786,7 +2464,33 @@
    "room": "101",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/75927",
    "discountPrice": 89100,
-   "discountRate": 0.1
+   "discountRate": 0.1,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 6,
+     "matchedRoom": "101호 (온수수영장 4월~11월운영/ 스파/ 개별불멍)",
+     "matchHow": "contains-key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 99000,
+     "discountPrice": 89100
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 3,
+     "matchedRoom": "101호 (온수수영장 4월~11월운영/ 스파/ 개별불멍)",
+     "matchHow": "contains-key",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "tongyeong-badauigibun": {
    "base": 219000,
@@ -795,7 +2499,31 @@
    "room": "202호 호수온 스위트룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72407",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 4,
+     "matchedRoom": "2층 202호 호수온 스위트룸 (25평형)",
+     "matchHow": "contains-key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 219000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "tongyeong-elpis36": {
    "base": 159000,
@@ -804,7 +2532,31 @@
    "room": "204 · 오션뷰 풀빌라",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/69283",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 6,
+     "matchedRoom": "204(오션뷰,풀빌라)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 159000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 4,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "andong-seorindang": {
    "base": 150000,
@@ -813,14 +2565,61 @@
    "room": "서린당 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73659",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "서린당 독채",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 150000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 0,
+     "matchedRoom": "서린당 독채",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "andong-soyeonjeong": {
    "base": 308000,
    "checkedAt": "2026-11-16",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 소연정 2026-12-15~2026-12-16 1박 · 2026-11-16 조회 · 날짜별 변동",
    "room": "소연정",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73242"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73242",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 0,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 0,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "hadong-sosohwagae": {
    "base": 170000,
@@ -829,7 +2628,35 @@
    "room": "Stay5",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85468",
    "discountPrice": 150000,
-   "discountRate": 0.11
+   "discountRate": 0.11,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 5,
+     "availableRoomsCount": 5,
+     "matchedRoom": "Stay5",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 170000,
+     "discountPrice": 150000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 5,
+     "availableRoomsCount": 1,
+     "matchedRoom": "Stay5",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 170000,
+     "discountPrice": 150000
+    }
+   }
   },
   "gongju-dalbitjeongwon": {
    "base": 100000,
@@ -838,7 +2665,31 @@
    "room": "달빛둘 2F",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89668",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 6,
+     "matchedRoom": "달빛둘 2F",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 100000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 0,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "buyeo-nongbuihouse": {
    "base": 246400,
@@ -847,7 +2698,31 @@
    "room": "[2인객실] 부여농부의집 (기준2인/최대2인)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73503",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "[2인객실] 부여농부의집 (기준2인/최대2인)",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 246400
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "danyang-gauri": {
    "base": 190400,
@@ -856,14 +2731,62 @@
    "room": "프라이빗룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71656",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "프라이빗룸",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 190400
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "pyeongchang-underhill": {
    "base": 110000,
    "checkedAt": "2026-11-20",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 101호 2026-11-24~25 1박 · 2026-11-20 조회 · 날짜별 변동",
    "room": "101호",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86366"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86366",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 3,
+     "matchedRoom": "101호",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 130000
+    }
+   }
   },
   "jeongseon-toumaru": {
    "base": 140000,
@@ -872,7 +2795,33 @@
    "room": "사랑처럼",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71679",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 4,
+     "matchedRoom": "사랑처럼",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 140000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 8,
+     "availableRoomsCount": 5,
+     "matchedRoom": "사랑처럼",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 160000
+    }
+   }
   },
   "hongcheon-barnshill": {
    "base": 310000,
@@ -881,7 +2830,33 @@
    "room": "7BARN (20평형, 비애견)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83296",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 16,
+     "availableRoomsCount": 14,
+     "matchedRoom": "7BARN (20평형, 비애견)",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 310000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 16,
+     "availableRoomsCount": 9,
+     "matchedRoom": "7BARN (20평형, 비애견)",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 390000
+    }
+   }
   },
   "boryeong-elice": {
    "base": 410000,
@@ -890,7 +2865,35 @@
    "room": "프리미어 스파",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/80803",
    "discountPrice": 246000,
-   "discountRate": 0.4
+   "discountRate": 0.4,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "availableRoomsCount": 7,
+     "matchedRoom": "프리미어 스파",
+     "matchHow": "exact",
+     "stockCount": 3,
+     "roomAvailable": true,
+     "base": 410000,
+     "discountPrice": 246000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "availableRoomsCount": 5,
+     "matchedRoom": "프리미어 스파",
+     "matchHow": "exact",
+     "stockCount": 2,
+     "roomAvailable": true,
+     "base": 570000,
+     "discountPrice": 456000
+    }
+   }
   },
   "mungyeong-polaris": {
    "base": 100000,
@@ -899,7 +2902,33 @@
    "room": "작은곰",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/71755",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 4,
+     "matchedRoom": "작은곰",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 100000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 3,
+     "matchedRoom": "작은곰",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 150000
+    }
+   }
   },
   "yeongdeok-searest": {
    "base": 130000,
@@ -908,7 +2937,33 @@
    "room": "A301(오션뷰,실외풀,실외스파)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/88751",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "A301(오션뷰,실외풀,실외스파)",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 130000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 2,
+     "matchedRoom": "A301(오션뷰,실외풀,실외스파)",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 230000
+    }
+   }
   },
   "yangyang-paran": {
    "base": 345000,
@@ -917,7 +2972,31 @@
    "room": "독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/76305",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "독채",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 345000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "chuncheon-staysohyang": {
    "base": 300000,
@@ -926,7 +3005,31 @@
    "room": "스테이소향",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90396",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "스테이소향",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 300000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "taean-thehillstay": {
    "base": 290000,
@@ -935,7 +3038,32 @@
    "room": "더힐 독채 풀빌라",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83945",
    "discountPrice": 145000,
-   "discountRate": 0.5
+   "discountRate": 0.5,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "더힐 독채 풀빌라",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 290000,
+     "discountPrice": 145000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "damyang-glise977": {
    "base": 159200,
@@ -944,7 +3072,32 @@
    "room": "304호(30B)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/87191",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 10,
+     "availableRoomsCount": 10,
+     "matchedRoom": "304호(30B)",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 159200
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 10,
+     "availableRoomsCount": 2,
+     "matchedRoom": "304호(30B)",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "yangpyeong-console": {
    "base": 350000,
@@ -953,7 +3106,32 @@
    "room": "콘솔양평",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73971",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "콘솔양평",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 350000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 0,
+     "matchedRoom": "콘솔양평",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "ganghwa-haimari": {
    "base": 225000,
@@ -962,7 +3140,35 @@
    "room": "A동(프라이빗 독채)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90538",
    "discountPrice": 202500,
-   "discountRate": 0.1
+   "discountRate": 0.1,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "A동(프라이빗 독채)",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 225000,
+     "discountPrice": 202500
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 1,
+     "matchedRoom": "A동(프라이빗 독채)",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 280000,
+     "discountPrice": 252000
+    }
+   }
   },
   "cheongsong-hanokan": {
    "base": 120000,
@@ -971,7 +3177,32 @@
    "room": "참봉댁",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90674",
    "discountPrice": 112800,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "availableRoomsCount": 7,
+     "matchedRoom": "참봉댁",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 120000,
+     "discountPrice": 112800
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 7,
+     "availableRoomsCount": 3,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "uljin-beatrice": {
    "base": 180000,
@@ -980,7 +3211,32 @@
    "room": "풀빌라101호",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/85838",
    "discountPrice": 169200,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 9,
+     "availableRoomsCount": 9,
+     "matchedRoom": "풀빌라101호",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 180000,
+     "discountPrice": 169200
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 9,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "jeju-sinseong-boutique": {
    "base": 110000,
@@ -989,7 +3245,32 @@
    "room": "[부티크] 트윈룸",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/74933",
    "discountPrice": 104500,
-   "discountRate": 0.05
+   "discountRate": 0.05,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "[부티크] 트윈룸",
+     "matchHow": "exact",
+     "stockCount": 11,
+     "roomAvailable": true,
+     "base": 110000,
+     "discountPrice": 104500
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 0,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "jeju-pyeongpyeong": {
    "base": 399840,
@@ -998,7 +3279,31 @@
    "room": "돌집",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73497",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "돌집",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 399840
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "namhae-osida": {
    "base": 168000,
@@ -1007,7 +3312,35 @@
    "room": "랜덤(Room Only)",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72639",
    "discountPrice": 147920,
-   "discountRate": 0.11
+   "discountRate": 0.11,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "랜덤(Room Only)",
+     "matchHow": "exact",
+     "stockCount": 3,
+     "roomAvailable": true,
+     "base": 168000,
+     "discountPrice": 147920
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "랜덤(Room Only)",
+     "matchHow": "exact",
+     "stockCount": 2,
+     "roomAvailable": true,
+     "base": 218000,
+     "discountPrice": 194920
+    }
+   }
   },
   "namhae-graenamhae": {
    "base": 170000,
@@ -1016,7 +3349,32 @@
    "room": "그래 1호",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86012",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "그래 1호",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 170000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 1,
+     "matchedRoom": "그래 1호",
+     "matchHow": "exact",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "gangneung-kkarong": {
    "base": 179200,
@@ -1025,14 +3383,62 @@
    "room": "까롱별장",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72419",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "까롱별장",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 179200
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "까롱별장",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 268800
+    }
+   }
   },
   "gangneung-stayiple": {
    "base": 190000,
    "checkedAt": "2026-11-21",
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 희(기쁨:喜) 2026-11-24~25 1박 · 2026-11-21 조회 · 날짜별 변동",
    "room": "희(기쁨:喜)",
-   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90759"
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90759",
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 0,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 0,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "gyeongju-jasmine": {
    "base": 179200,
@@ -1041,7 +3447,31 @@
    "room": "자스민 채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/73216",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "availableRoomsCount": 1,
+     "matchedRoom": "자스민 채",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 179200
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 1,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "yeosu-suitestay": {
    "base": 320000,
@@ -1050,7 +3480,31 @@
    "room": "디럭스 오션뷰 스위트",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/78998",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "디럭스 오션뷰 스위트",
+     "matchHow": "exact",
+     "stockCount": 2,
+     "roomAvailable": true,
+     "base": 320000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 1,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "gapyeong-stayvian": {
    "base": 260000,
@@ -1059,7 +3513,32 @@
    "room": "A1",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/86702",
    "discountPrice": 244400,
-   "discountRate": 0.06
+   "discountRate": 0.06,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 6,
+     "matchedRoom": "A1",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 260000,
+     "discountPrice": 244400
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "soldOut": true,
+     "stockCount": 0,
+     "roomAvailable": false,
+     "availableRoomsCount": 0
+    }
+   }
   },
   "sokcho-aoi": {
    "base": 70000,
@@ -1068,7 +3547,33 @@
    "room": "스탠다드 트윈",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90297",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "스탠다드 트윈",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 70000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 3,
+     "availableRoomsCount": 3,
+     "matchedRoom": "스탠다드 트윈",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 100000
+    }
+   }
   },
   "busan-songjeong-mansion": {
    "base": 200000,
@@ -1077,7 +3582,31 @@
    "room": "stay1 스파욕조·오션뷰·빔프로젝터",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89178",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 3,
+     "matchedRoom": "stay1스파욕조&오션뷰&전객실 빔프로젝터",
+     "matchHow": "alias",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 200000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 1,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "gangneung-stay195": {
    "base": 120000,
@@ -1086,7 +3615,31 @@
    "room": "스테이C1",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70245",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 6,
+     "matchedRoom": "스테이C1",
+     "matchHow": "exact",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 120000
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 6,
+     "availableRoomsCount": 3,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "yangpyeong-jayeondam": {
    "base": 179600,
@@ -1095,7 +3648,32 @@
    "room": "C4 해는벌써서산에 · 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83429",
    "discountPrice": 169600,
-   "discountRate": 0.05
+   "discountRate": 0.05,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 3,
+     "matchedRoom": "C4 해는벌써서산에 (독채/화덕솥뚜껑바베큐/불멍)",
+     "matchHow": "key",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 179600,
+     "discountPrice": 169600
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 4,
+     "availableRoomsCount": 0,
+     "matchHow": "absent-soldout",
+     "stockCount": 0,
+     "roomAvailable": false
+    }
+   }
   },
   "jeju-motungidol": {
    "base": 169500,
@@ -1104,7 +3682,33 @@
    "room": "바깥채 독채",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72752",
    "discountPrice": null,
-   "discountRate": null
+   "discountRate": null,
+   "availability": {
+    "weekday": {
+     "checkIn": "2026-12-01",
+     "checkOut": "2026-12-02",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "바깥채(독채)",
+     "matchHow": "exact-nobracket",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 169500
+    },
+    "weekend": {
+     "checkIn": "2026-11-28",
+     "checkOut": "2026-11-29",
+     "checkedAt": "2026-11-27",
+     "totalRoomsCount": 2,
+     "availableRoomsCount": 2,
+     "matchedRoom": "바깥채(독채)",
+     "matchHow": "exact-nobracket",
+     "stockCount": 1,
+     "roomAvailable": true,
+     "base": 192100
+    }
+   }
   }
  }
 }

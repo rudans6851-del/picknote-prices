@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T20:22:41+09:00",
+ "updatedAt": "2026-11-26T21:42:19+09:00",
  "targetCheckIn": "2026-12-01",
  "targetCheckOut": "2026-12-02",
  "basis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준",
@@ -1067,6 +1067,42 @@
    "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스탠다드 트윈 2026-12-01~2026-12-02 1박",
    "room": "스탠다드 트윈",
    "sourceUrl": "https://www.yeogi.com/domestic-accommodations/90297",
+   "discountPrice": null,
+   "discountRate": null
+  },
+  "busan-songjeong-mansion": {
+   "base": 200000,
+   "checkedAt": "2026-11-26",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · stay1스파욕조&오션뷰&전객실 빔프로젝터 2026-12-01~2026-12-02 1박",
+   "room": "stay1 스파욕조·오션뷰·빔프로젝터",
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/89178",
+   "discountPrice": null,
+   "discountRate": null
+  },
+  "gangneung-stay195": {
+   "base": 120000,
+   "checkedAt": "2026-11-26",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 스테이C1 2026-12-01~2026-12-02 1박",
+   "room": "스테이C1",
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/70245",
+   "discountPrice": null,
+   "discountRate": null
+  },
+  "yangpyeong-jayeondam": {
+   "base": 179600,
+   "checkedAt": "2026-11-26",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · C4 해는벌써서산에 (독채/화덕솥뚜껑바베큐/불멍) 2026-12-01~2026-12-02 1박",
+   "room": "C4 해는벌써서산에 · 독채",
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/83429",
+   "discountPrice": 169600,
+   "discountRate": 0.05
+  },
+  "jeju-motungidol": {
+   "base": 169500,
+   "checkedAt": "2026-11-26",
+   "priceBasis": "여기어때 평일 공개 판매가(비로그인 방문자 표시가) 기준 · 바깥채(독채) 2026-12-01~2026-12-02 1박",
+   "room": "바깥채 독채",
+   "sourceUrl": "https://www.yeogi.com/domestic-accommodations/72752",
    "discountPrice": null,
    "discountRate": null
   }
